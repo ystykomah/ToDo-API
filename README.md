@@ -24,9 +24,7 @@ Database dirancang menggunakan **PostgreSQL** dan terdiri dari **6 tabel terelas
 6. **`task_tags`** : Junction table untuk mendukung relasi `N:N` antara `tasks` dan `tags`.
 
 ### Diagram Relasi Database (ERD)
-*(Dapat dilampirkan gambar skema database Supabase)*
-
----
+<img width="1521" height="690" alt="Cuplikan layar 2026-10-21 091637" src="https://github.com/user-attachments/assets/f4754460-37cc-4aac-825c-af9c816a782e" />
 
 ## 4. Dokumentasi Endpoint API
 
