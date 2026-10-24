@@ -1,5 +1,9 @@
 # Dokumentasi Tugas Akhir Learning Labs: To-Do List Backend API
 
+Nama : Istiqomah
+NIM : 21114022610022
+Prodi : Informatika PSDKU
+
 ## 1. Deskripsi Project
 **To-Do List Backend API** adalah layanan REST API yang dibangun menggunakan **Node.js** dan **Express.js** serta terhubung dengan database **PostgreSQL** yang di-host pada platform **Supabase**. API ini menyediakan fungsionalitas manajemen tugas (CRUD) untuk pengguna, lengkap dengan kategori, label/tag, serta profil pengguna.
 
