@@ -36,7 +36,6 @@ Berikut adalah rincian panggilan endpoint yang tersedia pada REST API ini besert
 - **URL**          : `https://to-do-api-eight-lyart.vercel.app/`
 - **Deskripsi**    : Memeriksa status keberjalanan server API.
 - **Response (200 OK)** :
-  ```json
   "API Daftar Tugas Berjalan 🚀"
 <img width="1917" height="1078" alt="Cuplikan layar 2026-10-24 113034" src="https://github.com/user-attachments/assets/c9190451-2099-4eaf-a994-eee12f21a72e" />
 
